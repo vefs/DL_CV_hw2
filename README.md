@@ -1,5 +1,7 @@
 ### Init ENV
-#Put training img in ./data./img_celeb
+
+Put training img in ./data./img_celeb
+
 #cd images
 #mkdir images mdl_state report results
 
